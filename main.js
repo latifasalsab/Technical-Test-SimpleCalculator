@@ -1,3 +1,4 @@
+
 while (true) {
   var number, group;
   number = prompt("enter numbers to calculate ").replace(
